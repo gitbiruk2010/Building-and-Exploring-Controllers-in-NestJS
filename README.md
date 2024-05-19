@@ -1,4 +1,10 @@
 # Dogs Service API
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/5ec2daa3-851e-4569-9fe0-7cb6d31fea29)
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/e3c3882c-46a9-435a-a13e-bb0ba531c3c0)
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/88dfa1b8-72d8-4259-a645-e88ba65709c6)
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/efc77ee6-a304-4121-bcb7-0aef55faa55e)
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/f9ac329d-6b27-42b1-8725-24bfc2046df1)
+![image](https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS/assets/103274295/25811451-fef5-462e-b185-ae65bab8d7d5)
 
 This project is a simple NestJS application demonstrating basic CRUD operations for a "Dogs" resource. The application allows you to create, read, update, and delete dog entries.
 
@@ -15,7 +21,7 @@ This project is a simple NestJS application demonstrating basic CRUD operations 
 
 1. **Clone the repository:**
    ```sh
-   git clone 
+   git clone https://github.com/gitbiruk2010/Building-and-Exploring-Controllers-in-NestJS
    cd dogs-service
 ## Install dependencies
 - npm install
